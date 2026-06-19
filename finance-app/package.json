@@ -1,0 +1,10 @@
+{
+  "name": "casa-financeira",
+  "version": "0.1.0",
+  "private": true,
+  "description": "App financeiro PWA com backend serverless para Pluggy/Open Finance.",
+  "scripts": {
+    "start": "python3 -m http.server 4175",
+    "deploy:vercel": "vercel --prod"
+  }
+}

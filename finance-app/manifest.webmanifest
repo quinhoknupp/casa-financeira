@@ -1,0 +1,16 @@
+{
+  "name": "Casa Financeira",
+  "short_name": "Financas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#f7f4ed",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%231d3b34'/%3E%3Cpath d='M52 104c0-25 19-44 44-44s44 19 44 44-19 44-44 44-44-19-44-44Z' fill='%23f7f4ed'/%3E%3Cpath d='M79 105h34M96 82v46' stroke='%231d3b34' stroke-width='12' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
